@@ -13,7 +13,7 @@ hasCJKLanguage = false
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/IMG_6008.JPG"
+  header_image = "img/IMG_6008.jpg"
   SEOTitle = ""
   description = "Adriana's Personal Website"
   keyword = "Forest Ecology, Remote Sensing, Global Change, Environmental Justice"
