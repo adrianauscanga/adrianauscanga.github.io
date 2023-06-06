@@ -12,7 +12,7 @@ description: Description of research projects.
 Can disturbance syndromes help better predict forest structure and function?
 In this project we are characterizing and classifying forest disturbance history using Landsat time series and non-hierarchical classification methods.
 For doing so, we are analyzing spectral trajectories of forests with LandTrendr in Google Earth Engine and classifying the disturbance trajectories into *disturbance syndromes*. The main objective of this project is to better understand the role of recent disturbance in shaping current forest structure and function.
-See our preliminary results in this [poster]([https://www.example.com](https://drive.google.com/file/d/1N3H0YCEaDTQwlk9luDaVigq9Dlnmmbg5/view?usp=sharing) focused on the NEON site Harvard Forest that I presented at the [Anthromes, CO2 , and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) meeting.
+See our preliminary results in this [poster](https://drive.google.com/file/d/1N3H0YCEaDTQwlk9luDaVigq9Dlnmmbg5/view?usp=sharing) focused on the NEON site Harvard Forest that I presented at the [Anthromes, CO2 , and Terrestrial Carbon](https://www.anthromes-co2-and-terrestrial-carbon.com/2023/en/page/home) meeting.
 
 ![Disturbance syndromes image](/img/dist_syndromes.png)
 
