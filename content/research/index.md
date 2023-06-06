@@ -17,4 +17,4 @@ More info coming soon!
 
 What are the relative roles of environmental and land-use variables in shaping forest structure?
 More info coming soon!
-![Chinantla](/img/IMG_5522.JPG)
+![Chinantla](/img/chinantla.JPG)
