@@ -121,9 +121,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "CV"
   href =  "https://drive.google.com/file/d/1PAdmaBr9rZFnXNYVLrYSWRmee5WGVzWd/view?usp=sharing"  
-  #[[params.addtional_menus]]
-  #title =  "NEWS"
-  #href =  "/news/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
 
 
 [outputFormats.Algolia]
