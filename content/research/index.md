@@ -19,7 +19,7 @@ See our preliminary results in this [poster](https://drive.google.com/file/d/1N3
 
 ---
 
-#### Trends of forest loss and conservation in tropical mountains
+#### Forest loss and conservation in tropical mountains
 
 ##### How are tropical montane forests changing due to current trends of land-use/land-cover change?
 
