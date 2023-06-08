@@ -19,6 +19,16 @@ See our preliminary results in this [poster](https://drive.google.com/file/d/1N3
 
 ---
 
+#### Trends of forest loss and conservation in tropical mountains
+
+##### How are tropical montane forests changing due to current trends of land-use/land-cover change?
+
+This research project seeks to understand current processes of forest loss in tropical mountains and their relation to different forest conservation strategies from a coupled natural-human systems approach. I focused on the Northern Mountains of Oaxaca, a mountain range that is famous for the community-based forest conservation projects that take place there, but where forest cover loss has increased in the last years. You can see some preliminary results in this [map](https://pages.uoregon.edu/adrianau/Maps/19yrsforestlossNMO.pdf).
+
+![Tropical mountains](/img/IMG_5885.JPG)
+
+---
+
 #### Forest structure along environmental and land-use intensity gradients
 
 ##### What are the relative roles of environmental and land-use variables in shaping forest structure?
@@ -29,11 +39,3 @@ This project focuses on understanding the spatial distribution of forest structu
 
 ---
 
-#### Trends of forest loss and conservation in tropical mountains
-
-##### How are tropical montane forests changing due to current trends of land-use/land-cover change?
-
-Tropical deforestation is a very large problem. However, most of the knowledge around the causes and consequences of tropical forest loss comes from research conducted in lowland rainforests. Little is known about processes of land-use/land-cover change in tropical mountains. 
-This research project seeks to understand current processes of forest loss in tropical mountains and their relation to different forest conservation strategies. I focused on the Northern Mountains of Oaxaca, a mountain range that is famous for the community-based forest conservation projects that take place there, but where forest cover loss has increased in the last years. You can see some preliminary results in this [map](https://pages.uoregon.edu/adrianau/Maps/19yrsforestlossNMO.pdf).
-
-![Tropical mountains](/img/IMG_5885.JPG)
