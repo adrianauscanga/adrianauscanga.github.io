@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "Algolia"]
   SEOTitle = ""
   description = "Adriana's Personal Website"
   keyword = "Forest Ecology, Remote Sensing, Global Change, Environmental Justice"
-  slogan = "Forest Ecology | Remote Sensing | Global Change | Environmental Justice"
+  slogan = "Landscape Ecology | Remote Sensing | Global Change | Environmental Justice"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Under construction!"
