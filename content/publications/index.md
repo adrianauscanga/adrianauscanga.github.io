@@ -13,7 +13,10 @@ You can find a full list of my publications at my [Google Scholar page](https://
 
 ##### Published
 
-**Uscanga, A.**, Bartlein, P., Silva, L. (Accepted) Local and regional effects of land-use intensity on aboveground biomass and tree diversity in tropical montane cloud forests. *Ecosystems.* 
+**Uscanga, A.**, Bartlein, P., Silva, L. (2023). Local and regional effects of land-use intensity on aboveground biomass and tree diversity in tropical montane cloud forests. *Ecosystems.* https://doi.org/10.1007/s10021-023-00861-1
+
+**Uscanga, A.**, (2023). Tracking vegetation changes with time series of satellite images. *Nature
+Reviews Earth & Environment*, 4, 513. https://doi.org/10.1038/s43017-023-00444-7
 
 Carrasco-Espinosa, K., Avitia, M., Barrón-Sandoval, A., Abbruzzini, T.F., Salazar Cabrera, U.I., Arroyo-Lambaer D., **Uscanga, A.**, Campo, J., Benítez, M., Wegier, A., Rosell, J.A., Reverchon, F.,Hernández, G., Boege, K., Escalante, A.E., (2022). Land-Use Change and Management Intensification Is Associated with Shifts in Composition of Soil Microbial Communities and Their Functional Diversity in Coffee Agroecosystems. *Microorganisms*, 10(9): 1763. https://doi.org/10.3390/microorganisms10091763
 
