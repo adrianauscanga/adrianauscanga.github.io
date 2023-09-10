@@ -36,8 +36,6 @@ Sosa-Aranda, I., Ek del-Val, Hernández-Martínez, G., Arroyo-Laember, D., **Usc
 
 #### Other Publications
 
-**Uscanga, A.** (2023) Tracking vegetation changes with time series of satellite images. Nat Rev Earth Environ. https://doi.org/10.1038/s43017-023-00444-7
-
 Alonso, C., Benítez, M., Herce, M.F., Hernández, B., **Uscanga, A.** and Vázquez, V. (2021) Critical Analysis of the Libramiento Sur de Oaxaca Project: Social, Economic and Ecological Aspects (in Spanish). LANCIS, UNAM, México. Available at: https://2b1fb97f-6090-462b-9638-e1b60f35cd83.filesusr.com/ugd/62cc6b_e10e98d2d77f4d73ad1975966397f829.pdf?index=true
 
 Alonso, C., Benítez, M., Herce, M.F., Hernández, B., **Uscanga, A.** and Vázquez, V. (2021) No to Libramiento Sur. Social, Economic, and Ecological Aspects (in Spanish). Dynamic Map available at https://pages.uoregon.edu/adrianau/WebMapping/libramientosur/
