@@ -30,7 +30,7 @@ Sosa-Aranda, I., Ek del-Val, Hernández-Martínez, G., Arroyo-Laember, D., **Usc
 
 ##### In review, revision, or preparation
 
-**Uscanga, A.**, Shuler, S., Silva, L. Incorporating small-scale forest disturbance in aboveground biomass estimates of tropical mountains. In review
+**Uscanga, A.**, Shuler, S., Silva, L. Incorporating small-scale forest disturbance in aboveground biomass estimates of tropical mountains. In revision
 
 **Uscanga, A.**, Silva, L. Conflicting land management strategies drive tropical forest loss in communal and smallholder lands. In preparation
 
